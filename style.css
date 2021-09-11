@@ -5,12 +5,14 @@ body{
   font-family: "Poppins","Roboto","Open Sans", sans-serif;
   background-image: linear-gradient(#f9f964,#fafa4a);
   color:#090808;
+  padding:20px;
   margin-left:  5.5em;
- margin-right: 5.5em;
- margin-top: 2em;
- margin-bottom: 2em;
+  margin-right: 5.5em;
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
 h1{
+  font-style:italic;
  text-align: center;
   background-color: #090808;
   color: #ffffff;
@@ -18,4 +20,8 @@ h1{
 
 h3{
   text-align: center;
+}
+a:hover{
+  text-decoration:underline;
+  color: #ffffff
 }
