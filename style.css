@@ -2,5 +2,20 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
 
 body{
-  font-family: "Poppins","Roboto","Open Sans" sans-serif;
+  font-family: "Poppins","Roboto","Open Sans", sans-serif;
+  background-image: linear-gradient(#f9f964,#fafa4a);
+  color:#090808;
+  margin-left:  5.5em;
+ margin-right: 5.5em;
+ margin-top: 2em;
+ margin-bottom: 2em;
+}
+h1{
+ text-align: center;
+  background-color: #090808;
+  color: #ffffff;
+}
+
+h3{
+  text-align: center;
 }
