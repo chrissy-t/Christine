@@ -1,7 +1,7 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
 
-body{
+body {
   font-family: "Poppins","Roboto","Open Sans", sans-serif;
   background-image: linear-gradient(#f9f964,#fafa4a);
   color:#090808;
@@ -11,19 +11,22 @@ body{
   margin-top: 2em;
   margin-bottom: 2em;
 }
-h1, h3{
+h1, h3  {
   font-style:italic;
  text-align: center;
   background-color: #090808;
   color: #ffffff;
 }
 
-.header{
-  box-sizing: content-box;
+.heading {
+  background-color: #090808;
+  color: #ffffff;
+  border-radius: 20%;
+
   padding: 2em;
 }
 
-a:hover{
+a:hover {
   text-decoration:underline;
   color: #fc0505
 }
