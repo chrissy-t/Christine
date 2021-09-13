@@ -18,6 +18,10 @@ h1, h3{
   color: #ffffff;
 }
 
+.header{
+  box-sizing: content-box;
+}
+
 a:hover{
   text-decoration:underline;
   color: #fc0505
