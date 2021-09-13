@@ -11,16 +11,13 @@ body{
   margin-top: 2em;
   margin-bottom: 2em;
 }
-h1{
+h1, h3{
   font-style:italic;
  text-align: center;
   background-color: #090808;
   color: #ffffff;
 }
 
-h3{
-  text-align: center;
-}
 a:hover{
   text-decoration:underline;
   color: #ffffff
