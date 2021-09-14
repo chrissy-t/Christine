@@ -40,3 +40,9 @@ a:hover {
   text-decoration:underline;
   color: #fc0505
 }
+
+.footer {
+  background-color: #090808;
+  text-align: center;
+  padding: 10px;
+}
